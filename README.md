@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
