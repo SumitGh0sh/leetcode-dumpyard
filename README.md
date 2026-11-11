@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 ## Segment Tree
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
