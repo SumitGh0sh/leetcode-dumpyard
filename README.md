@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0151-reverse-words-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Segment Tree
 |  |
 | ------- |
