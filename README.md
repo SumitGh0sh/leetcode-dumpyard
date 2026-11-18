@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0151-reverse-words-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Segment Tree
 |  |
 | ------- |
