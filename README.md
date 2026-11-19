@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
