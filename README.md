@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3477-fruits-into-baskets-ii](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Segment Tree
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
