@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0977-squares-of-a-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0189-rotate-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
