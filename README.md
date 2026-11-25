@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3477-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0209-minimum-size-subarray-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3477-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/0013-roman-to-integer) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -154,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SumitGh0sh/leetcode-dumpyard/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
